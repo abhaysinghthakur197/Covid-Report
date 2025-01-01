@@ -1,7 +1,7 @@
 # Covid-19-Data-Report-Site-
 
-[Covid-19Data](https://abhaysinghthakur197.github.io/Covid-19-Data-Report-Site-/)
-[https://abhaysinghthakur197.github.io/Covid-19-Data-Report-Site-/](https://abhaysinghthakur197.github.io/Covid-19-Data-Report-Site-/)
+[Covid-19Data]([https://abhaysinghthakur197.github.io/Covid-Report/])
+[https://abhaysinghthakur197.github.io/Covid-Report/](https://abhaysinghthakur197.github.io/Covid-Report/)
 
 ![Screenshot 2023-07-03 192712](https://github.com/abhaysinghthakur197/Covid-19-Data-Report-Site-/assets/59767465/0ac91472-2733-489d-b5b1-36e8d4fa8795)
 
